@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langgraph
+openai
+faiss-cpu
+tiktoken
+python-dotenv
+sentence-transformers
