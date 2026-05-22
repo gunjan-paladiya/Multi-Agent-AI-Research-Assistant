@@ -189,7 +189,7 @@ multi-agent-ai-research-assistant/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/multi-agent-ai-research-assistant.git
+git clone https://github.com/gunjan-paladiya/multi-agent-ai-research-assistant.git
 ```
 
 ## Navigate to Project
