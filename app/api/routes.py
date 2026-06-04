@@ -1,7 +1,6 @@
 from fastapi import APIRouter
 from langchain.chat_models import ChatOpenAI
 from langchain.chains import RetrievalQA
-
 from app.database.vector_store import build_vector_store
 from app.agents.research_agent import run_research_agent
 from app.agents.summarization_agent import run_summary_agent
